@@ -30,7 +30,7 @@ A front-end web application named [CarObar](https://car-rental-i2g3.vercel.app/)
 - ImaginStudio API
 
 ## Feedback
-Any questions or suggestions? Notice any bugs or glitches? Feel free to send me an [email](https://mail.google.com/sainikumar368@gmail.com)
+Any questions or suggestions? Notice any bugs or glitches? Feel free to send me an <a href="mailto:sainikumar368@gmail.com">email</a>
 
 
 ## Deploy on Vercel
