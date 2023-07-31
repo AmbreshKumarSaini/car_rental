@@ -6,9 +6,15 @@ A front-end web application named [CarObar](https://car-rental-i2g3.vercel.app/)
 <table>
   <tbody>
      <tr>
-     <img src="https://github.com/AmbreshKumarSaini/car_rental/assets/92514207/d5606485-098b-425a-883e-b68da18771b2" alt="Image 1">
+     <td>
+     <img src="https://github.com/AmbreshKumarSaini/car_rental/assets/92514207/d5606485-098b-425a-883e-b68da18771b2" alt="Image 1">  
+     </td>
+       <td>
   <img src="https://github.com/AmbreshKumarSaini/car_rental/assets/92514207/1c2f2d16-ea1e-41ae-9752-ea94aa1df392" alt="Image 2">
+       </td>
+       <td>
   <img src="https://github.com/AmbreshKumarSaini/car_rental/assets/92514207/046f6b77-314a-498f-9297-47b4fe71936a" alt="Image 3">
+       </td>
   </tr>
   </tbody>
 </table>
