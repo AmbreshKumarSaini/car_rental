@@ -1,12 +1,12 @@
 # CarObar
 
-#### A front-end web application called CarObar, dedicated to facilitating car rentals by offering a user-friendly interface that allows users to conveniently book cars tailored to their specific requirements.
+**A front-end web application called CarObar, dedicated to facilitating car rentals by offering a user-friendly interface that allows users to conveniently book cars tailored to their specific requirements.**
 
-### Built Using
-Next.js
-TypeScript
-Tailwind CSS
-ImaginStudio API
+**Built Using**
+- Next.js
+- TypeScript
+- Tailwind CSS
+- ImaginStudio API
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
