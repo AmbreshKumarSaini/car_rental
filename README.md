@@ -2,7 +2,7 @@
 
 **A front-end web application called CarObar, dedicated to facilitating car rentals by offering a user-friendly interface that allows users to conveniently book cars tailored to their specific requirements.**
 
-**Built Using**
+## Built Using
 - Next.js
 - TypeScript
 - Tailwind CSS
