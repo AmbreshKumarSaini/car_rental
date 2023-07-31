@@ -21,6 +21,9 @@ A front-end web application named [CarObar](https://car-rental-i2g3.vercel.app/)
 - Tailwind CSS
 - ImaginStudio API
 
+## Feedback
+Any questions or suggestions? Notice any bugs or glitches? Feel free to send me an [email](sainikumar368@gmail.com)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Deploy on Vercel
