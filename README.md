@@ -1,5 +1,6 @@
 # CarObar
 A front-end web application named [CarObar](https://car-rental-i2g3.vercel.app/), dedicated to facilitating car rentals by offering a user-friendly interface that allows users to conveniently book cars tailored to their specific requirements.
+<br/>
 Platform redefines convenience, enabling users to seamlessly browse through an extensive fleet of top-notch cars, each equipped with detailed specifications and high-resolution images, ensuring that every choice is well-informed.
 
 ## Demo
